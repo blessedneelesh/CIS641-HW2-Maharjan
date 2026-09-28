@@ -1,6 +1,5 @@
 # Neelesh Maharjan
 
-## Interests
 * I am interested in designing system models — functional, structural, and behavioral — using UML diagrams, and in making those systems efficient through good coupling, cohesion, and design patterns, so programmers can use them as a blueprint for implementation.
 * I am interested in software architecture, particularly in how architectural decisions shape a system's scalability, maintainability, and long-term quality.
 * I am interested in incorporating AI-driven features, such as RAG, chatbots into software systems.
